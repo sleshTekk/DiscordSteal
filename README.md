@@ -2,7 +2,7 @@
    Blank Grabber
 </h1>
 <p align= "center">
-   <kbd>
+   
    ![Screenshot_5](https://github.com/sleshTekk/DiscordSteal/assets/163595476/b0d96ad7-e845-40e4-b483-0c540be2ebac)
 
 

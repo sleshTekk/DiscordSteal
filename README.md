@@ -3,7 +3,8 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="">![Screenshot_5](https://github.com/sleshTekk/DiscordSteal/assets/163595476/482e753f-9a8f-44f9-8f84-28fbf0a155bc)
+
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">

@@ -27,7 +27,8 @@ This is basically how it is done.
 
 🟢 Congratulations, you have just launched the software and you can use it, if you succeeded, then you should have something like this 🟢
 
-  ![Screenshot_3](https://github.com/sleshTekk/DiscordSteal/assets/163595476/3f1c4e36-7ca6-48c8-962c-31da7f1d92df)
+  ![Screenshot_4](https://github.com/sleshTekk/DiscordSteal/assets/163595476/eeebebf9-61f5-4eb1-8ff5-d2803ffff7fa)
+
 
 
 ⚠️ WARNING Use only as part of an experiment and no more, you are responsible for your own actions ⚠️

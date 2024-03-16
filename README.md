@@ -1,5 +1,5 @@
 <h1 align="center">
-    DiscordStealSlesh
+DiscordStealSlesh
 </h1>
 <p align= "center">
 

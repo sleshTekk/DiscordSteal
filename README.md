@@ -3,11 +3,12 @@
 </h1>
 <p align= "center">
    
-   <img! scr="https://github.com/sleshTekk/DiscordSteal/assets/163595476/b0d96ad7-e845-40e4-b483-0c540be2ebac>
+   ![68747470733a2f2f692e696d6775722e636f6d2f633163556d5a462e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/cad57ecc-3162-4a8f-858a-c0821256a0cf)
+
 
 
    </kbd><br><br>
-   <img scr="https://github.com/sleshTekk/DiscordSteal/assets/163595476/b0d96ad7-e845-40e4-b483-0c540be2ebac">
+   
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
@@ -21,6 +22,7 @@
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
+
 
 ## Project Status: Coming to an End
 

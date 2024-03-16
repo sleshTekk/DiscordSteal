@@ -27,11 +27,13 @@ This is basically how it is done.
 
 🟢 Congratulations, you have just launched the software and you can use it, if you succeeded, then you should have something like this 🟢
 
-  ![Screenshot_13](https://github.com/sleshTekk/DiscordSteal/assets/163595476/c40509e0-3cb3-4ff1-abb5-c03eaaeb6ccc)
+  ![Screenshot_3](https://github.com/sleshTekk/DiscordSteal/assets/163595476/3f1c4e36-7ca6-48c8-962c-31da7f1d92df)
+
 
 ⚠️ WARNING Use only as part of an experiment and no more, you are responsible for your own actions ⚠️
 
-  ![Screenshot_14](https://github.com/sleshTekk/DiscordSteal/assets/163595476/23c1ccc1-bc8e-42fd-84ae-bfadf5eecf66)
+  ![Screenshot_3](https://github.com/sleshTekk/DiscordSteal/assets/163595476/1739650b-fc53-4f1b-b9f8-1da2249dbca0)
+
 
 
 

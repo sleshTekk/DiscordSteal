@@ -2,6 +2,6 @@
 
 # pip install pycryptodome
 
-# python3 -m pip install requests
+# pip install requests
 
 # pip install pywin32  

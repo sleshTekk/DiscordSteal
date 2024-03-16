@@ -46,7 +46,7 @@ I’m @esrys I'll teach you how to steal discord data. #You will need to install
  ![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/5f3080c3-e34f-419a-9b08-adc3e96264d9)
 
 
-                           ⚠️ WARNING Use only as part of an experiment and no more, you are responsible for your own actions ⚠️
+                ⚠️ WARNING Use only as part of an experiment and no more, you are responsible for your own actions ⚠️
 
   
 

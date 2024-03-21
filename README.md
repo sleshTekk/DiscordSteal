@@ -3,7 +3,8 @@
 </h1>
 
 
-   ![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/2ea9e1e3-3550-4088-b841-25198bd8c72d)
+   ![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/2ea9e1e3-3550-4088-b841-25198bd8c72d) ![68747470733a2f2f692e696d6775722e636f6d2f36474f354342342e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/eb5e94fb-bf81-4640-89b1-9e7ff780ba5a)
+
 
 ## Project Status: Coming to an End
 

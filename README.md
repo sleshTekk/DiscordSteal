@@ -1,6 +1,7 @@
 <h1 align="center">
    DiscordSteal
 </h1>
+![68747470733a2f2f692e696d6775722e636f6d2f3975386e4e62442e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/1eaea8fa-9ac3-462b-bf47-eaa4b1aea951)
 
 
 ## Project Status: Coming to an End

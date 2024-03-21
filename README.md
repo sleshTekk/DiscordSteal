@@ -15,7 +15,6 @@ However, as the saying goes, all good things must come to an end. As I approach 
 
 I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
 
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
 
 I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
 
@@ -26,24 +25,8 @@ Thank you all once again for being part of this journey. I wish you all the best
 Best regards,  
 Blank-c
 
-## Table of Contents
 
-- [Download](#download)
-- [Features](#features)
-- [Stub Settings](#stub-settings)
-- [Requirements](#requirements)
-- [How to Build?](#how-to-build)
-- [Support the Project](#support-the-project)
 
-## Download
-
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
-
-**Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
-
-**Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
-
-**Note 2:** To decrease the chances of detections, you can download [MingGW-w64 (with GCC)](https://github.com/niXman/mingw-builds-binaries/releases/download/13.1.0-rt_v11-rev1/x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1.7z) and include the "bin" folder in the PATH variable.
 
 ## Features
 
@@ -92,9 +75,14 @@ Blank-c
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
+
+![Screenshot_3](https://github.com/sleshTekk/DiscordSteal/assets/163595476/fbe60e08-1b23-45d5-aca9-96d7f2ef42c2)
+
+![68747470733a2f2f692e696d6775722e636f6d2f633163556d5a462e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/00a0bf3a-a6c9-4b7e-82ae-5ede3f0b0f12)
+
+![68747470733a2f2f692e696d6775722e636f6d2f7a5265566f6a502e706e67](https://github.com/sleshTekk/DiscordSteal/assets/163595476/02f762dd-4947-402a-a3e9-1d86b2dcea54)
 
 **Supports:** *Windows 8+ (Tested on Windows 10).*
 
@@ -107,9 +95,11 @@ Blank-c
 
 ## How to Build?
 
-1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
-2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+1. Download and install [Python 3](https://www.python.org/downloads/release/python-3109/) (Make sure to enable the *Add to PATH* option.)
+2. Download in CMD [pip install pycryptodome] [pip install requests] [pip install pywin32]
+                                                
+
+3. 
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.

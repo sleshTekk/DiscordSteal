@@ -25,8 +25,7 @@ While this marks the end of my direct involvement with this project, I sincerely
 
 Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
 
-Best regards,  
-Blank-c
+
 
 
 
@@ -104,13 +103,14 @@ Blank-c
 4.     pip install requests
 5.     pip install pywin32
 6. Next, download DiscordSteal.py and place it on the desktop.
-7. Go back to CMD and specify the path to the desktop
-8. 
-9. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-10. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
-11. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+7. Go back to CMD and specify the path to the desktop with the cd Desktop command
+8.     cd Desktop
+9.    ![Screenshot_4](https://github.com/sleshTekk/DiscordSteal/assets/163595476/b3773b0b-451e-42b5-946e-77bc29da2cd6)
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
+10. And let's write python DiscordSteal.py to turn on the software
+11.     python DiscordSteal.py
+12.  ![Screenshot_5](https://github.com/sleshTekk/DiscordSteal/assets/163595476/ec1dcf96-9aaf-4695-94de-54579d615e46)
+
 
 ## Support the Project
 
